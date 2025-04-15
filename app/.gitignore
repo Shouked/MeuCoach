@@ -34,3 +34,5 @@ web-build/
 .vscode/
 *.swp
 *.swo
+# Windows system files
+Thumbs.db
