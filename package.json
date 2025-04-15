@@ -1,0 +1,16 @@
+{
+  "name": "meucoach-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "app",
+    "backend"
+  ],
+  "scripts": {
+    "start": "echo 'Use os comandos dentro de /app ou /backend'"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "typescript": "^5.5.3"
+  }
+}
